@@ -1,0 +1,30 @@
+.CBO {
+  text-align: center;
+}
+.CB0 {
+  text-align: center;
+}
+.CBO {
+  color: rgb(255, 0, 0);
+}
+
+body {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  color: #ffffff;
+
+  background-color: #000000;
+  text-indent: 28pt;
+  font-family: Arial;
+  font-size: 12pt;
+}
+a {
+  color: red;
+}
+video {
+  border-radius: 12px;
+}
+hr {
+  width: 100%;
+}
